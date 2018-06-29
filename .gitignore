@@ -1,5 +1,3 @@
-*.tx
-*.txt
 .vscode/
 data/
 .idea/
